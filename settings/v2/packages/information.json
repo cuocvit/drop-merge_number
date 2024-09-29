@@ -18,6 +18,15 @@
         "complete": false,
         "form": "https://creator-api.cocos.com/api/form/show?"
       }
+    },
+    "build-web-desktop": {
+      "id": "build-web-desktop",
+      "label": "build-web-desktop",
+      "enable": false,
+      "build-web-desktop": {
+        "complete": false,
+        "form": "https://creator-api.cocos.com/api/form/show?"
+      }
     }
   }
 }
