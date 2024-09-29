@@ -2,8 +2,28 @@
   "__version__": "1.0.5",
   "general": {
     "designResolution": {
-      "height": 445,
-      "width": 355
+      "height": 555,
+      "width": 990,
+      "fitWidth": false,
+      "fitHeight": false
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Blocks"
+      },
+      {
+        "index": 2,
+        "name": "Walls"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 6,
+      "2": 2
     }
   }
 }
